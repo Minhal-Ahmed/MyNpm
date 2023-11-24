@@ -1,0 +1,28 @@
+{
+  "name": "myweatherinfonpmpackage",
+  "version": "1.0.2",
+  "description": "A practical npm package to fetch weather information for a given city",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Minhal-Ahmed/MyNpm.git"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "first"
+  ],
+  "author": "Minhal Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Minhal-Ahmed/MyNpm/issues"
+  },
+  "homepage": "https://github.com/Minhal-Ahmed/MyNpm#readme",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "node-fetch": "^3.3.2"
+  }
+}
